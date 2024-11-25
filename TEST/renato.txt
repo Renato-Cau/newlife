@@ -1,0 +1,1 @@
+In questo file non inseriro' nulla di importante, lo scopo di questo file ' verificare la sua presenza in tutti i rami del repository.
